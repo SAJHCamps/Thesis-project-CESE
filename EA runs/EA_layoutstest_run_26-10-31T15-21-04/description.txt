@@ -1,0 +1,1 @@
+G_10 with random initial positions and splits

@@ -1,0 +1,1 @@
+Smallest BB code with random position and fixed partition
